@@ -1,0 +1,10 @@
+C:\Users\semra\source\repos\SLOT\SlotMakinası\bin\Debug\SlotMakinası.exe.config
+C:\Users\semra\source\repos\SLOT\SlotMakinası\bin\Debug\SlotMakinası.exe
+C:\Users\semra\source\repos\SLOT\SlotMakinası\bin\Debug\SlotMakinası.pdb
+C:\Users\semra\source\repos\SLOT\SlotMakinası\obj\Debug\SlotMakinası.csprojAssemblyReference.cache
+C:\Users\semra\source\repos\SLOT\SlotMakinası\obj\Debug\SlotMakinası.Form1.resources
+C:\Users\semra\source\repos\SLOT\SlotMakinası\obj\Debug\SlotMakinası.Properties.Resources.resources
+C:\Users\semra\source\repos\SLOT\SlotMakinası\obj\Debug\SlotMakinası.csproj.GenerateResource.cache
+C:\Users\semra\source\repos\SLOT\SlotMakinası\obj\Debug\SlotMakinası.csproj.CoreCompileInputs.cache
+C:\Users\semra\source\repos\SLOT\SlotMakinası\obj\Debug\SlotMakinası.exe
+C:\Users\semra\source\repos\SLOT\SlotMakinası\obj\Debug\SlotMakinası.pdb
